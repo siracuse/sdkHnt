@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?><!--<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">-->
+
+<ressources>
+    <membre
+        date_naiss="2000-09-25"
+        img="thieuma"
+        nom_membre="THIEUMA"
+        prenom_membre="Christelle"
+        taux_hematies="05"></membre>
+    <membre
+        date_naiss="2000-09-25"
+        img="teuxchan"
+        nom_membre="TEUXCHAN"
+        prenom_membre="Jean-Claude"
+        taux_hematies="05"></membre>
+    <membre
+        date_naiss="2000-09-25"
+        img="fayde"
+        nom_membre="FAYDE"
+        prenom_membre="Nicolas"
+        taux_hematies="05"></membre>
+    <membre
+        date_naiss="2000-09-25"
+        img="humania"
+        nom_membre="HUMANIA"
+        prenom_membre="Lara"
+        taux_hematies="05"></membre>
+    <membre
+        date_naiss="2000-09-25"
+        img="laigle"
+        nom_membre="LAIGLE"
+        prenom_membre="Barbara"
+        taux_hematies="05"></membre>
+    <membre
+        date_naiss="2000-09-25"
+        img="manequin"
+        nom_membre="MANEQUIN"
+        prenom_membre="Adriana"
+        taux_hematies="05"></membre>
+    <membre
+        date_naiss="2000-09-25"
+        img="humania"
+        nom_membre="HUMANIA"
+        prenom_membre="Lara"
+        taux_hematies="05"></membre>
+    <membre
+        date_naiss="2000-09-25"
+        img="lenfant"
+        nom_membre="LENFANT"
+        prenom_membre="Marie"
+        taux_hematies="05"></membre>
+    <membre
+        date_naiss="2000-09-25"
+        img="gnapachamps"
+        nom_membre="GNAPACHAMPS"
+        prenom_membre="Kevin"
+        taux_hematies="05"></membre>
+    <membre
+        date_naiss="2000-09-25"
+        img="magnum"
+        nom_membre="MAGNUM"
+        prenom_membre="Thomas"
+        taux_hematies="05"></membre>
+    <membre
+        date_naiss="2000-09-25"
+        img="nicolas"
+        nom_membre="GHOST"
+        prenom_membre="Nicolas"
+        taux_hematies="05"></membre>
+    <membre
+        date_naiss="2000-09-25"
+        img="lemilliard"
+        nom_membre="LEMILLIARD"
+        prenom_membre="Jean-Perre"
+        taux_hematies="05"></membre>
+
+</ressources>
+
+    <!--</PreferenceScreen>-->
+

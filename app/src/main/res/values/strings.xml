@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">PPE7</string>
+    <string name="lbTitre">Bienvenue</string>
+    <string name="btTest">Test Hématies</string>
+    <string name="btEntreprise">Présentation de l\'entreprise</string>
+    <string name="btMembre">Présentation des membres</string>
+    <string name="btGestion">Gestion des patients</string>
+    <string name="lbentreprise">Humanist Network</string>
+    <string name="lbDescrip">Créée le 31 juillet 1992 par 4 membres appartenant à des Organismes Non
+        Gouvernementaux (ONG) elle a pour but de développer l\’informatique dans les milieux caritatifs
+        et humanitaires. « Stimuler l\’activité des associations caritatives par le numérique, c’était
+        l\’idée développée par les responsables de Médecins du monde , Greenpeace , Unicef et Plan
+        International » HNT possède des bureaux à proximité des centres administratifs de ses
+        principaux clients : Paris, Londres, Toronto et Madrid. Son siège social est à L\'ile de la
+        Réunion
+</string>
+    <string name="rbHomme">Homme</string>
+    <string name="rbFemme">Femme</string>
+    <string name="btCalcul">Calcul</string>
+
+    <string name="txtAnemie">Test Hématies Homme \n Taux Inférieur à la normale : Anémie</string>
+    <string name="txtVaquez">Test Hématies Homme \n Taux Supérieur à la normale : Vaquez ou Hypoxie</string>
+    <string name="txtResultatOk">Test Hématies Homme \n Hématies Ok</string>
+
+    <string name="txtAnemieF">Test Hématies Femme \n Taux Inférieur à la normale : Anémie</string>
+    <string name="txtVaquezF">Test Hématies Femme \n Taux Supérieur à la normale : Vaquez ou Hypoxie F</string>
+    <string name="txtResultatOkF">Test Hématies Femme \n Taux Hématies Ok </string>
+
+    <string name="newPatient">Ajouter un patient</string>
+    <string name="nomPatient">Nom :</string>
+    <string name="prenomPatient">Prenom :</string>
+    <string name="datenaissPatient">Date naissance :</string>
+    <string name="valider">Valider</string>
+    <string name="retour">Retour</string>
+    <string name="delete">Supprimer un patient</string>
+</resources>
